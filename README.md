@@ -8,15 +8,15 @@ Os dados disponíveis são oriundos do Sistema de Avaliação do Programa de Imu
 O projeto foi proposto pelo Bootcamp Ciência de Dados da Alura.
 
 ## Organização do Projeto
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── processed      <- Dados tratados.
-│   └── raw            <- Dados originais extraídos do Datasus.
-├── notebooks
-│   ├── 01_tratamento_dos_dados       <- Importação e Tratamento dos Dados
-│   └── 02_analise_exploratoria_dos_dados       <- Análise e geração das visualizações.
-├── reports            
-│   └── figures        <- Gráficos e visualizações gerados.
+- README.md
+- data
+- data/processed      <- Dados tratados.
+- data/raw            <- Dados originais extraídos do Datasus.
+- notebooks
+- notebooks/01_tratamento_dos_dados       <- Importação e Tratamento dos Dados
+- notebooks/02_analise_exploratoria_dos_dados       <- Análise e geração das visualizações.
+- reports            
+- reports/figures        <- Gráficos e visualizações gerados.
 
 
 ## Descrição dos Dados
