@@ -21,7 +21,7 @@ O projeto foi proposto pelo Bootcamp Ciência de Dados da Alura.
 
 ## Descrição dos Dados
 
-Os dados estão divididos em:
+Os dados do Datasus estão dispostos em:
 - Imuno: descrição Imunobiológico.
 - Variable: período anual da cobertura vacinal (dados atualizados em: 04/09/2019).
 - Value: cobertura vacinal que representam o número de doses aplicadas dividido pela população alvo.
